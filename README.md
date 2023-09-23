@@ -82,7 +82,7 @@ This is the first full-stack web application that I developed using Java, Spring
 
 Jay Wu - jaywu2358@gmail.com
 
-Project Link: [https://github.com/jaywu2358/Shared-Shopping-List-Web-Application/](https://github.com/jaywu2358/Shared-Shopping-List-Web-Application/)
+Project Link: [https://shoppinglistapp-k7td.onrender.com/](https://shoppinglistapp-k7td.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
