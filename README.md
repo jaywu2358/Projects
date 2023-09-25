@@ -58,16 +58,16 @@ This is the first full-stack web application that I developed using Java, Spring
 <img src="https://github.com/jaywu2358/Shared-Shopping-List-Web-Application/assets/106934206/92dea7d9-5941-478c-a0d1-fa2611739777"/>
 </br>
 </br>
-4. Create a group, and invite a user to the user.</br>
+4. Create a group, and invite a user to the group.</br>
 <img src="https://github.com/jaywu2358/Shared-Shopping-List-Web-Application/assets/106934206/781e58ad-18c4-4b69-870a-1fdf072144a1"/>
 <img src="https://github.com/jaywu2358/Shared-Shopping-List-Web-Application/assets/106934206/eb919939-2dec-4ef9-bb5b-8647adef7d7f"/>
 
-5. After you invited a user/received an invitation to join a group. The Group Invitations show you both information there. The First row is the invitation the current user sent to "user 6" to join "group 1". You need to share the invitation code with the user being invited. The second row accept/decline a invitation to join "group 4".
+5. After you invited a user/received an invitation to join a group. The Group Invitations show you both information there. The First row is the invitation the current user sent to "user 6" to join "group 1". You need to share the invitation code with the user being invited. The second row is the invitation to join "group 4", you have the option to accept/decline the invitation.
 <img src="https://github.com/jaywu2358/Shared-Shopping-List-Web-Application/assets/106934206/77b6e707-b25c-4357-8e30-3ef042ef612b"/>
 </br>
 </br>
 
-6. Create a list in the group. Note: only the user who created the list can see the "delete" button. Claim a list. The user who "Claimed" the list can "unclaim" it. Other users can only see that the list has been "Claimed".
+6. Create a list in the group. Note: only the user who created the list can see the "delete" button. You can also claim a list. The user who "Claimed" the list can "unclaim" it. Other users can only see that the list has been "Claimed" by you.
 <img src="https://github.com/jaywu2358/Shared-Shopping-List-Web-Application/assets/106934206/a24f45b3-6631-4d5c-b241-b3640f16c22b"/>
 
 7. Thank you!
