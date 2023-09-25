@@ -18,11 +18,11 @@
 <h1> About The Project </h1>
 <img src="https://github.com/jaywu2358/Shared-Shopping-List-Web-Application/assets/106934206/d71bb11c-e5de-4c3d-ab40-68b812aeca43"/>
 
-This is the first full-stack web application that I developed using Java, Spring Boot, REST APIs, PostgreSQL, and Vue.js. It allows you to create shopping lists to keep track of the items/quantities to buy in the list. You have an option to create a group and invite people to this group to manage the lists with you. You can also "Claim" a list so that other people in your group know that you will buy the items in this list. 
+This is the first full-stack web application that I developed with my classmate in bootcamp using Java, Spring Boot, REST APIs, PostgreSQL, and Vue.js. We started with designing the database, methods, and functions that we need to achieve certain features, and finally, the user interface that makes sense for this application.  This app allows you to create shopping lists to keep track of the items/quantities to buy in the list, create a group, and invite people to this group to manage the lists with you. You can also "Claim" a list so that other people in your group know that you will buy the items in this list. 
 
 ### The functionality of this app can also be turned into:
 
-1. An "Order System", where "List" becomes "Order", "Group" becomes "Service Providers", and "Claim" becomes who is going to fulfill the order. 
+1. An "Ordering System", where "List" becomes "Order", "Group" becomes "Service Providers", and "Claim" becomes who is going to fulfill the order. 
 
 2. A "To-do List Tracker", where "List" becomes "To-do list", "Group" becomes "Workers", and "Claim" becomes who is going to do the task.
 
