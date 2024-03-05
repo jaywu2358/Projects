@@ -10,7 +10,7 @@
   <p align="center">
     An online shared shopping list management tool that allows you to create and manage shopping lists by yourself or a group of chosen people!
     </br>
-    <a href="https://shoppinglistapp-k7td.onrender.com/">Click HERE to check out this app!</a>
+    <a href="https://shoppinglistapp-k7td.onrender.com/">Click HERE to check out this app! (server currently under maintenance)</a>
   </p>
 </div>
 
